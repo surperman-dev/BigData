@@ -1,0 +1,201 @@
+,Rank,University,Country,Overall_Score,Year
+0,1,麻省理工学院Massachusetts Institute of Technology,United States,100,2019
+1,2,斯坦福大学Stanford University,United States,98.6,2019
+2,3,哈佛大学Harvard University,United States,98.5,2019
+3,4,加利福尼亚理工学院California Institute of Technology ,United States,97.2,2019
+4,5,牛津大学University of Oxford,United Kingdom,96.8,2019
+5,6,剑桥大学University of Cambridge,United Kingdom,95.6,2019
+6,7,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,95.3,2019
+7,8,帝国理工学院Imperial College London,United Kingdom,93.3,2019
+8,9,芝加哥大学The University of Chicago,United States,93.2,2019
+9,10,伦敦大学学院University College London,United Kingdom,92.9,2019
+10,11,National University of Singapore (NUS),Singapore,92,2019
+11,12,"Nanyang Technological University, Singapore (NTU)",Singapore,91.3,2019
+12,13,普林斯顿大学Princeton University,United States,90.9,2019
+13,14,康奈尔大学Cornell University,United States,90.5,2019
+14,15,耶鲁大学Yale University,United States,89.6,2019
+15,16,哥伦比亚大学Columbia University ,United States,88.5,2019
+16,17,Tsinghua University,China,87.2,2019
+17,18,爱丁堡大学The University of Edinburgh,United Kingdom,86.9,2019
+18,19,宾夕法尼亚大学University of Pennsylvania,United States,86.5,2019
+19,20,"密歇根大学安娜堡分校University of Michigan,Ann Arbor",United States,86.4,2019
+20,21,约翰霍普金斯大学Johns Hopkins University,United States,85.9,2019
+21,22,EPFL - Ecole Polytechnique Federale de Lausanne,Switzerland,85.8,2019
+22,23,The University of Tokyo,Japan,85.3,2019
+23,24,澳大利亚国立大学The Australian National University,Australia,84.4,2019
+24,25,香港大学The University of Hong Kong,Hong Kong,84.3,2019
+25,26,杜克大学Duke University,United States,83.9,2019
+26,27,"加州大学伯克利分校University of California,Berkeley",United States,83.2,2019
+27,28,多伦多大学University of Toronto,Canada,83,2019
+28,29,曼彻斯特大学The University of Manchester,United Kingdom,82.9,2019
+29,30,Peking University,China,82.6,2019
+30,31,伦敦国王学院King's College London,United Kingdom,82.5,2019
+31,32,"加州大学洛杉矶分校University of California,Los Angeles",United States,81.9,2019
+32,33,麦吉尔大学McGill University,Canada,81.7,2019
+33,34,西北大学Northwestern University,United States,81.5,2019
+34,35,Kyoto University,Japan,81.2,2019
+35,36,Seoul National University,South Korea,80.6,2019
+36,37,香港科技大学The Hong Kong University of Science and Technology,Hong Kong,80.5,2019
+37,38,伦敦政治经济学院The London School of Economics and Political Science,United Kingdom,80.2,2019
+38,39,墨尔本大学The University of Melbourne,Australia,80.1,2019
+39,40,KAIST - Korea Advanced Institute of Science & Technology,South Korea,78.7,2019
+40,41,"加利福尼亚大学圣地亚哥分校University of California,San Diego",United States,78.6,2019
+41,42,悉尼大学The University of Sydney,Australia,78.3,2019
+42,43,纽约大学New York University,United States,77.7,2019
+43,44,Fudan University,China,77.6,2019
+44,45,新南威尔士大学The University of New South Wales,Australia,77,2019
+45,46,卡内基梅隆大学Carnegie Mellon University,United States,76.6,2019
+46,47,英属哥伦比亚大学University of British Columbia,Canada,75.8,2019
+47,48,昆士兰大学The University of Queensland,Australia,75.7,2019
+48,49,香港中文大学The Chinese University of Hong Kong,Hong Kong,75.6,2019
+49,50,Université PSL,France,75.1,2019
+50,51,布里斯托大学University of Bristol,United Kingdom,74.9,2019
+51,52,Delft University of Technology,Netherlands,73.3,2019
+52,53,威斯康星大学-麦迪逊分校University of Wisconsin-Madison,United States,73.2,2019
+53,54,华威大学The University of Warwick,United Kingdom,72.9,2019
+54,55,香港城市大学City University of Hong Kong,Hong Kong,72.1,2019
+55,56,布朗大学Brown University,United States,72,2019
+56,57,University of Amsterdam,Netherlands,71.1,2019
+57,58,Tokyo Institute of Technology,Japan,71,2019
+58,59,蒙纳什大学Monash University,Australia,70.4,2019
+59,59,Shanghai Jiao Tong University,China,70.4,2019
+60,61,Technical University of Munich,Germany,70,2019
+61,62,Ludwig-Maximilians-Universität München,Germany,69.4,2019
+62,63,德克萨斯大学奥斯汀分校The University of Texas at Austin ,United States,68.7,2019
+63,64,Ruprecht-Karls-Universität Heidelberg,Germany,68,2019
+64,65,Ecole Polytechnique,France,67.9,2019
+65,66,"西雅图华盛顿大学University of Washington,Seattle Campus ",United States,67.8,2019
+66,67,Osaka University,Japan,67.7,2019
+67,68,Zhejiang University,China,67.5,2019
+68,69,佐治亚理工学院Georgia Institute of Technology,United States,67.4,2019
+69,69,格拉斯哥大学University of Glasgow,United Kingdom,67.4,2019
+70,71,伊利诺伊大学香槟分校University of Illinois at Urbana-Champaign,United States,67,2019
+71,72,National Taiwan University (NTU),Taiwan,66.3,2019
+72,73,Universidad de Buenos Aires (UBA),Argentina,66.2,2019
+73,74,杜伦大学Durham University,United Kingdom,65.7,2019
+74,75,Sorbonne University,France,64.8,2019
+75,75,谢菲尔德大学The University of Sheffield,United Kingdom,64.8,2019
+76,77,Tohoku University,Japan,64.3,2019
+77,78,University of Zurich,Switzerland,63.6,2019
+78,79,伯明翰大学University of Birmingham,United Kingdom,63.5,2019
+79,79,University of Copenhagen,Denmark,63.5,2019
+80,81,KU Leuven,Belgium,63.4,2019
+81,82,诺丁汉大学University of Nottingham,United Kingdom,63.1,2019
+82,83,Pohang University of Science And Technology (POSTECH),South Korea,63,2019
+83,83,北卡罗来纳州大学教堂山分校University of North Carolina at Chapel Hill ,United States,63,2019
+84,85,奥克兰大学The University of Auckland,New Zealand,62.8,2019
+85,86,Korea University,South Korea,62.7,2019
+86,87,莱斯大学Rice University,United States,62.6,2019
+87,87,Universiti Malaya (UM),Malaysia,62.6,2019
+88,89,俄亥俄州立大学Ohio State University,United States,62.4,2019
+89,90,Lomonosov Moscow State University,Russia,62.3,2019
+90,91,西澳大学The University of Western Australia,Australia,62.2,2019
+91,92,Lund University,Sweden,62.1,2019
+92,93,波士顿大学Boston University,United States,62,2019
+93,93,利兹大学University of Leeds,United Kingdom,62,2019
+94,95,宾州州立大学Pennsylvania State University,United States,61.9,2019
+95,96,南安普顿大学University of Southampton,United Kingdom,61.6,2019
+96,97,圣安德鲁斯大学University of St Andrews,United Kingdom,61.4,2019
+97,98,University of Science and Technology of China,China,60.8,2019
+98,99,Eindhoven University of Technology,Netherlands,59.8,2019
+99,100,普渡大学Purdue University,United States,59.5,2019
+100,100,Sungkyunkwan University (SKKU),South Korea,59.5,2019
+101,100,"加州大学戴维斯分校University of California,Davis",United States,59.5,2019
+102,100,圣路易斯华盛顿大学Washington University in St Louis,United States,59.5,2019
+103,104,KTH Royal Institute of Technology,Sweden,59.3,2019
+104,104,"Trinity College Dublin, The University of Dublin",Ireland,59.3,2019
+105,106,香港理工大学The Hong Kong Polytechnic University,Hong Kong,59.1,2019
+106,107,Yonsei University,South Korea,58.9,2019
+107,108,University of Geneva,Switzerland,58.4,2019
+108,109,阿尔伯塔大学University of Alberta,Canada,58.1,2019
+109,110,University of Helsinki,Finland,57.9,2019
+110,111,Nagoya University,Japan,57.3,2019
+111,112,Technical University of Denmark,Denmark,57.1,2019
+112,113,Universidad Nacional Autónoma de México (UNAM),Mexico,56.8,2019
+113,114,阿德莱德大学The University of Adelaide,Australia,56.6,2019
+114,115,南加州大学University of Southern California,United States,56.2,2019
+115,116,"KIT, Karlsruhe Institute of Technology",Germany,55.9,2019
+116,117,Uppsala University,Sweden,55.8,2019
+117,118,Universidade de São Paulo,Brazil,55.5,2019
+118,119,伦敦大学玛丽女王学院Queen Mary University of London,United Kingdom,55.4,2019
+119,120,University of Groningen,Netherlands,55.2,2019
+120,121,Humboldt-Universität zu Berlin,Germany,55.1,2019
+121,122,Leiden University,Netherlands,55,2019
+122,122,Nanjing University,China,55,2019
+123,124,Utrecht University,Netherlands,54.5,2019
+124,125,Wageningen University,Netherlands,54.4,2019
+125,126,Kyushu University,Japan,54.1,2019
+126,126,马里兰大学University of Maryland-College Park,United States,54.1,2019
+127,128,Chalmers University of Technology,Sweden,53.6,2019
+128,128,Hokkaido University,Japan,53.6,2019
+129,130,Freie Universitaet Berlin,Germany,53.4,2019
+130,131,兰卡斯特大学Lancaster University,United Kingdom,53,2019
+131,132,Pontificia Universidad Católica de Chile (UC),Chile,52.9,2019
+132,132,"加利福尼亚大学圣塔芭芭拉分校University of California, Santa Barbara",United States,52.9,2019
+133,134,约克大学The University of York,United Kingdom,52.4,2019
+134,135,University of Oslo,Norway,51.9,2019
+135,136,匹兹堡大学University of Pittsburgh-Pittsburgh Campus,United States,51.8,2019
+136,137,CentraleSupélec,France,51.5,2019
+137,138,Ghent University,Belgium,51.3,2019
+138,139,University of Bern,Switzerland,51.1,2019
+139,140,Aalto University,Finland,50.8,2019
+140,141,Aarhus University,Denmark,50.7,2019
+141,141,密歇根州立大学Michigan State University,United States,50.7,2019
+142,141,纽卡斯尔大学Newcastle University,United Kingdom,50.7,2019
+143,144,RWTH Aachen University,Germany,50.4,2019
+144,145,卡迪夫大学Cardiff University,United Kingdom,50.3,2019
+145,146,麦克马斯特大学McMaster University,Canada,50.1,2019
+146,147,Technische Universität Berlin (TU Berlin),Germany,49.9,2019
+147,148,埃默里大学Emory University,United States,49.6,2019
+148,149,蒙特利尔大学University of Montreal,Canada,49.5,2019
+149,149,University of Lausanne,Switzerland,49.5,2019
+150,151,Hanyang University,South Korea,49.4,2019
+151,151,利物浦大学The University of Liverpool,United Kingdom,49.4,2019
+152,153,École Normale Supérieure de Lyon,France,49.2,2019
+153,154,The Hebrew University of Jerusalem,Israel,49.1,2019
+154,154,埃克塞特大学University of Exeter,United Kingdom,49.1,2019
+155,156,Politecnico di Milano,Italy,48.7,2019
+156,156,"明尼苏达大学双城校区University of Minnesota,Twin Cities",United States,48.7,2019
+157,158,巴斯大学University of Bath,United Kingdom,48.6,2019
+158,159,Universidad Autónoma de Madrid,Spain,48.5,2019
+159,160,University of Basel,Switzerland,48.4,2019
+160,160,"悉尼科技大学University of Technology, Sydney",Australia,48.4,2019
+161,162,Indian Institute of Technology Bombay (IITB),India,48.2,2019
+162,163,National Tsing Hua University,Taiwan,48,2019
+163,163,滑铁卢大学University of Waterloo,Canada,48,2019
+164,165,Université catholique de Louvain (UCL),Belgium,47.9,2019
+165,166,Universitat de Barcelona,Spain,47.8,2019
+166,167,Scuola Superiore Sant'Anna Pisa di Studi Universitari e di Perfezionamento,Italy,47.7,2019
+167,168,Eberhard Karls Universität Tübingen,Germany,47.6,2019
+168,169,"加利福尼亚大学欧文分校University of California, Irvine",United States,47.5,2019
+169,170,Indian Institute of Science,India,47.1,2019
+170,171,University of Bergen,Norway,46.8,2019
+171,172,Indian Institute of Technology Delhi (IITD),India,46.6,2019
+172,172,阿伯丁大学University of Aberdeen,United Kingdom,46.6,2019
+173,172,University of Twente,Netherlands,46.6,2019
+174,175,Scuola Normale Superiore di Pisa,Italy,46.4,2019
+175,175,University of Vienna,Austria,46.4,2019
+176,175,奥塔哥大学University of Otago,New Zealand,46.4,2019
+177,178,Instituto Tecnológico y de Estudios Superiores de Monterrey,Mexico,46.2,2019
+178,179,Erasmus University Rotterdam,Netherlands,46.1,2019
+179,180,英国女王大学Queen's University Belfast,United Kingdom,45.9,2019
+180,180,Alma Mater Studiorum - University of Bologna,Italy,45.9,2019
+181,180,佛罗里达大学University of Florida,United States,45.9,2019
+182,183,达特茅斯学院Dartmouth College,United States,45.8,2019
+183,184,Universiti Kebangsaan Malaysia (UKM),Malaysia,45.5,2019
+184,184,罗彻斯特大学University of Rochester,United States,45.5,2019
+185,186,凯斯西储大学Case Western Reserve University,United States,45.4,2019
+186,186,Albert-Ludwigs-Universitaet Freiburg,Germany,45.4,2019
+187,188,Vrije Universiteit Brussel (VUB),Belgium,45.2,2019
+188,189,King Fahd University of Petroleum & Minerals,Saudi Arabia,45.1,2019
+189,190,科罗拉多大学波尔得分校University of Colorado Boulder,United States,45,2019
+190,191,Technische Universität Dresden,Germany,44.9,2019
+191,192,"弗吉尼亚大学University of Virginia,Main Campus",United States,44.8,2019
+192,193,Universitat Autònoma de Barcelona,Spain,44.7,2019
+193,193,University College Dublin,Ireland,44.7,2019
+194,195,雷丁大学University of Reading,United Kingdom,44.4,2019
+195,195,范德堡大学Vanderbilt University,United States,44.4,2019
+196,197,University of Göttingen,Germany,44.3,2019
+197,198,Keio University,Japan,44.1,2019
+198,199,Vienna University of Technology,Austria,44,2019
+199,200,Stockholm University,Sweden,43.9,2019

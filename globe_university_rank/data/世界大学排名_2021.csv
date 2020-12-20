@@ -1,0 +1,201 @@
+,Rank,University,Country,Overall_Score,Year
+0,1,Massachusetts Institute of Technology (MIT),United States,100,2021
+1,2,Stanford University,United States,98.4,2021
+2,3,Harvard University,United States,97.9,2021
+3,4,California Institute of Technology (Caltech),United States,97,2021
+4,5,牛津大学University of Oxford,United Kingdom,96.7,2021
+5,6,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,95,2021
+6,7,剑桥大学University of Cambridge,United Kingdom,94.3,2021
+7,8,帝国理工学院Imperial College London,United Kingdom,93.6,2021
+8,9,University of Chicago,United States,93.1,2021
+9,10,伦敦大学学院University College London,United Kingdom,92.9,2021
+10,11,National University of Singapore (NUS),Singapore,91.5,2021
+11,12,Princeton University,United States,91,2021
+12,13,"Nanyang Technological University, Singapore (NTU)",Singapore,89.9,2021
+13,14,EPFL,Switzerland,89.6,2021
+14,15,Tsinghua University,China (Mainland),89.2,2021
+15,16,University of Pennsylvania,United States,88.6,2021
+16,17,Yale University,United States,88,2021
+17,18,Cornell University,United States,87.6,2021
+18,19,Columbia University,United States,86.5,2021
+19,20,爱丁堡大学The University of Edinburgh,United Kingdom,85.8,2021
+20,21,University of Michigan-Ann Arbor,United States,84.6,2021
+21,22,The University of Hong Kong,Hong Kong SAR,83.7,2021
+22,23,Peking University,China (Mainland),83.5,2021
+23,24,The University of Tokyo,Japan,83.2,2021
+24,25,Johns Hopkins University,United States,82.7,2021
+25,25,University of Toronto,Canada,82.7,2021
+26,27,The Hong Kong University of Science and Technology,Hong Kong SAR,82.1,2021
+27,27,曼彻斯特大学The University of Manchester,United Kingdom,82.1,2021
+28,29,Northwestern University,United States,81.5,2021
+29,30,"University of California, Berkeley (UCB)",United States,80.8,2021
+30,31,The Australian National University,Australia,80,2021
+31,31,伦敦国王学院King's College London,United Kingdom,80,2021
+32,31,McGill University,Canada,80,2021
+33,34,Fudan University,China (Mainland),79.9,2021
+34,35,New York University (NYU),United States,79.4,2021
+35,36,"University of California, Los Angeles (UCLA)",United States,79.2,2021
+36,37,Seoul National University,South Korea,79,2021
+37,38,Kyoto University,Japan,78.9,2021
+38,39,KAIST - Korea Advanced Institute of Science & Technology,South Korea,78.6,2021
+39,40,The University of Sydney,Australia,77.1,2021
+40,41,The University of Melbourne,Australia,76.5,2021
+41,42,Duke University,United States,76.4,2021
+42,43,The Chinese University of Hong Kong (CUHK),Hong Kong SAR,75.8,2021
+43,44,The University of New South Wales (UNSW Sydney),Australia,75.4,2021
+44,45,University of British Columbia,Canada,74.8,2021
+45,46,The University of Queensland,Australia,74.5,2021
+46,47,Shanghai Jiao Tong University,China (Mainland),74.4,2021
+47,48,City University of Hong Kong,Hong Kong SAR,74.3,2021
+48,49,The London School of Economics and Political Science (LSE),United Kingdom,73.9,2021
+49,50,Technical University of Munich,Germany,73.6,2021
+50,51,Carnegie Mellon University,United States,73.4,2021
+51,52,Université PSL,France,73.3,2021
+52,53,Zhejiang University,China (Mainland),71.9,2021
+53,54,"University of California, San Diego (UCSD)",United States,71.2,2021
+54,55,Monash University,Australia,70.9,2021
+55,56,Tokyo Institute of Technology (Tokyo Tech),Japan,70.8,2021
+56,57,Delft University of Technology,Netherlands,70.7,2021
+57,58,布里斯托大学University of Bristol,United Kingdom,70.6,2021
+58,59,Universiti Malaya (UM),Malaysia,70.1,2021
+59,60,Brown University,United States,70,2021
+60,61,University of Amsterdam,Netherlands,69.9,2021
+61,61,Ecole Polytechnique,France,69.9,2021
+62,62,华威大学The University of Warwick,United Kingdom,69,2021
+63,63,Ludwig-Maximilians-Universität München,Germany,68.9,2021
+64,64,Ruprecht-Karls-Universität Heidelberg,Germany,68.6,2021
+65,65,University of Wisconsin-Madison,United States,68.2,2021
+66,66,National Taiwan University (NTU),Taiwan,67.5,2021
+67,66,Universidad de Buenos Aires (UBA),Argentina,67.5,2021
+68,69,Korea University,South Korea,67.1,2021
+69,69,University of Zurich,Switzerland,67.1,2021
+70,71,University of Texas at Austin,United States,66.7,2021
+71,72,Osaka University,Japan,66.1,2021
+72,72,University of Washington,United States,66.1,2021
+73,74,Lomonosov Moscow State University,Russia,65.9,2021
+74,75,The Hong Kong Polytechnic University,Hong Kong SAR,65.8,2021
+75,76,University of Copenhagen,Denmark,65.5,2021
+76,77,Pohang University of Science And Technology (POSTECH),South Korea,64.6,2021
+77,77,格拉斯哥大学University of Glasgow,United Kingdom,64.6,2021
+78,79,Tohoku University,Japan,64.3,2021
+79,80,Georgia Institute of Technology,United States,64.1,2021
+80,81,The University of Auckland,New Zealand,64,2021
+81,82,University of Illinois at Urbana-Champaign,United States,63.4,2021
+82,83,Sorbonne University,France,63.3,2021
+83,84,KU Leuven,Belgium,63,2021
+84,85,Yonsei University,South Korea,62.5,2021
+85,86,杜伦大学Durham University,United Kingdom,62.2,2021
+86,87,伯明翰大学University of Birmingham,United Kingdom,62,2021
+87,88,Sungkyunkwan University(SKKU),South Korea,61.5,2021
+88,89,Rice University,United States,61.4,2021
+89,90,南安普顿大学University of Southampton,United Kingdom,61.3,2021
+90,91,利兹大学University of Leeds,United Kingdom,61.2,2021
+91,92,The University of Western Australia,Australia,61,2021
+92,93,谢菲尔德大学The University of Sheffield,United Kingdom,60.8,2021
+93,93,University of Science and Technology of China,China (Mainland),60.8,2021
+94,95,"University of North Carolina, Chapel Hill",United States,60.6,2021
+95,96,圣安德鲁斯大学University of St Andrews,United Kingdom,60.3,2021
+96,97,Lund University,Sweden,60.2,2021
+97,98,KTH Royal Institute of Technology,Sweden,59.5,2021
+98,99,诺丁汉大学University of Nottingham,United Kingdom,59,2021
+99,100,Universidad Nacional Autónoma de México (UNAM),Mexico,58.8,2021
+100,101,Pennsylvania State University,United States,58.4,2021
+101,101,"Trinity College Dublin, The University of Dublin",Ireland,58.4,2021
+102,103,Technical University of Denmark,Denmark,57.9,2021
+103,104,University of Helsinki,Finland,57.6,2021
+104,105,Washington University in St. Louis,United States,56.9,2021
+105,106,The University of Adelaide,Australia,56.8,2021
+106,106,University of Geneva,Switzerland,56.8,2021
+107,108,The Ohio State University,United States,56.4,2021
+108,109,Purdue University,United States,55.9,2021
+109,110,Boston University,United States,55.8,2021
+110,110,Nagoya University,Japan,55.8,2021
+111,112,"University of California, Davis",United States,55.3,2021
+112,113,University of Oslo,Norway,55.2,2021
+113,114,University of Bern,Switzerland,54.9,2021
+114,114,伦敦大学玛丽女王学院Queen Mary University of London,United Kingdom,55.1,2021
+115,115,Universidade de São Paulo,Brazil,54.8,2021
+116,115,Wageningen University & Research,Netherlands,54.8,2021
+117,117,Humboldt-Universität zu Berlin,Germany,54.5,2021
+118,118,Université de Montréal,Canada,54.3,2021
+119,119,University of Alberta,Canada,54,2021
+120,120,Eindhoven University of Technology,Netherlands,53.9,2021
+121,121,Pontificia Universidad Católica de Chile (UC),Chile,53.8,2021
+122,121,University of Southern California,United States,53.8,2021
+123,121,Utrecht University,Netherlands,53.8,2021
+124,124,Kyushu University,Japan,53.7,2021
+125,124,Nanjing University,China (Mainland),53.7,2021
+126,124,Uppsala University,Sweden,53.7,2021
+127,127,Aalto University,Finland,53.6,2021
+128,128,Leiden University,Netherlands,53.4,2021
+129,128,University of Groningen,Netherlands,53.4,2021
+130,130,Freie Universitaet Berlin,Germany,53.2,2021
+131,131,"KIT, Karlsruhe Institute of Technology",Germany,52.9,2021
+132,132,Universiti Putra Malaysia (UPM),Malaysia,52.7,2021
+133,133,University of Technology Sydney,Australia,52.6,2021
+134,135,兰卡斯特大学Lancaster University,United Kingdom,52.5,2021
+135,135,Ghent University,Belgium,52.5,2021
+136,137,Politecnico di Milano,Italy,52.4,2021
+137,138,CentraleSupélec,France,52.3,2021
+138,139,Chalmers University of Technology,Sweden,52.2,2021
+139,139,Hokkaido University,Japan,52.2,2021
+140,141,Universiti Kebangsaan Malaysia (UKM),Malaysia,52,2021
+141,142,Universiti Sains Malaysia (USM),Malaysia,51.9,2021
+142,143,King Abdulaziz University (KAU),Saudi Arabia,51.7,2021
+143,144,McMaster University,Canada,51.5,2021
+144,145,RWTH Aachen University,Germany,51.4,2021
+145,146,Hanyang University,South Korea,51.3,2021
+146,147,Aarhus University,Denmark,51,2021
+147,148,Technische Universität Berlin (TU Berlin),Germany,50.8,2021
+148,149,University of Basel,Switzerland,50.6,2021
+149,150,University of Vienna,Austria,50.3,2021
+150,150,约克大学The University of York,United Kingdom,50.3,2021
+151,152,纽卡斯尔大学Newcastle University,United Kingdom,50.2,2021
+152,152,"University of California, Santa Barbara (UCSB)",United States,50.2,2021
+153,152,"University of Maryland, College Park",United States,50.2,2021
+154,155,Tecnológico de Monterrey,Mexico,49.9,2021
+155,156,University of Pittsburgh,United States,49.7,2021
+156,157,Michigan State University,United States,49.6,2021
+157,158,Emory University,United States,49.1,2021
+158,159,卡迪夫大学Cardiff University,United Kingdom,48.5,2021
+159,160,Alma Mater Studiorum - University of Bologna,Italy,48.2,2021
+160,161,École Normale Supérieure de Lyon,France,48.1,2021
+161,162,Case Western Reserve University,United States,47.4,2021
+162,162,University of Florida,United States,47.4,2021
+163,164,埃克塞特大学University of Exeter,United Kingdom,47.2,2021
+164,165,Al-Farabi Kazakh National University,Kazakhstan,46.9,2021
+165,166,University of Rochester,United States,46.8,2021
+166,166,University of Waterloo,Canada,46.8,2021
+167,168,National Tsing Hua University,Taiwan,46.4,2021
+168,169,Texas A&M University,United States,46.2,2021
+169,169,University of Lausanne,Switzerland,46.2,2021
+170,171,Sapienza University of Rome,Italy,46.1,2021
+171,172,Indian Institute of Technology Bombay (IITB),India,46,2021
+172,173,Technische Universität Dresden,Germany,45.9,2021
+173,173,巴斯大学University of Bath,United Kingdom,45.9,2021
+174,175,Eberhard Karls Universität Tübingen,Germany,45.8,2021
+175,175,Albert-Ludwigs-Universitaet Freiburg,Germany,45.8,2021
+176,177,The Hebrew University of Jerusalem,Israel,45.7,2021
+177,177,University College Dublin,Ireland,45.7,2021
+178,177,University of Minnesota Twin Cities,United States,45.7,2021
+179,180,Universidad de Chile,Chile,45.6,2021
+180,181,Stockholm University,Sweden,45.5,2021
+181,181,利物浦大学The University of Liverpool,United Kingdom,45.5,2021
+182,183,Universitat de Barcelona,Spain,45.4,2021
+183,184,University of Otago,New Zealand,45.3,2021
+184,185,Indian Institute of Science,India,44.9,2021
+185,186,King Fahd University of Petroleum & Minerals,Saudi Arabia,44.7,2021
+186,187,Universiti Teknologi Malaysia,Malaysia,44.2,2021
+187,187,Vanderbilt University,United States,44.2,2021
+188,189,Université catholique de Louvain (UCLouvain),Belgium,44.1,2021
+189,189,Waseda University,Japan,44.1,2021
+190,191,Keio University,Japan,44,2021
+191,191,Vienna University of Technology,Austria,44,2021
+192,193,Indian Institute of Technology Delhi (IITD),India,43.9,2021
+193,194,University of Bergen,Norway,43.4,2021
+194,195,University of Göttingen,Germany,43.3,2021
+195,196,University of Wollongong,Australia,43.2,2021
+196,197,Erasmus University Rotterdam,Netherlands,43.1,2021
+197,197,"The University of Newcastle, Australia (UON)",Australia,43.1,2021
+198,197,University of Twente,Netherlands,43.1,2021
+199,200,Universidad Autónoma de Madrid,Spain,42.8,2021
